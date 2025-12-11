@@ -1,0 +1,12 @@
+Welcome to the Personal Finance Tracker!
+
+--- Finance Tracker Menu ---
+1. Add a new transaction
+2. View all transactions
+3. Check current balance
+4. Exit
+Choose an option (1-4): 1
+Is this an 'income' or 'expense'? income
+Enter the amount: $100.00
+Enter a description: Birthday Gift
+Transaction added successfully!
